@@ -1,5 +1,7 @@
-<h1 align="center">->ＷＡＮＮＡＢＥ  ＤＥＶＥＬＯＰＥＲ<-</h1>
-<p align="center">
+<!--<h1 align="center">->ＷＡＮＮＡＢＥ  ＤＥＶＥＬＯＰＥＲ<-</h1>-->
+
+
+<p>
     <img src="https://komarev.com/ghpvc/?username=jxxt" alt="">
 </p>
 <hr>
@@ -12,7 +14,7 @@
     <img src="https://img.shields.io/badge/-CSS%203-333C43?logo=css3&logoColor=2977CA&style=flat"/>&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-HTML%205-333C43?logo=html5&logoColor=#E34F26&style=flat"/>&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Javascript-333C43?logo=javascript&logoColor=#F7DF1E&style=flat"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Node.Js-333C43?logo=node.js&logoColor=#339933&style=flat"/>&nbsp;&nbsp;&nbsp;
+    <!--<img src="https://img.shields.io/badge/-Node.Js-333C43?logo=node.js&logoColor=#339933&style=flat"/>&nbsp;&nbsp;&nbsp;-->
     <img src="https://img.shields.io/badge/-Markdown-333C43?logo=markdown&logoColor=#000000&style=flat"/>&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Git-333C43?logo=git&logoColor=#F05032&style=flat"/>&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Github-333C43?logo=github&logoColor=#181717&style=flat"/>&nbsp;&nbsp;&nbsp;
