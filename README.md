@@ -1,34 +1,32 @@
-<!--<h1 align="center">->ＷＡＮＮＡＢＥ  ＤＥＶＥＬＯＰＥＲ<-</h1>-->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=7FFF00&vCenter=true&width=435&lines=%24+jeet%2Fdebnath;%40+jxxt;%23+a%2Ffullstack%2Fdeveloper)](https://git.io/typing-svg)
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=jxxt" alt="">
 </p>
+
 <hr>
-<h3>🇸‌🇰‌🇮‌🇱‌🇱‌🇸‌:</h3>
-<p>
-    <!-- <img src="https://img.shields.io/badge/-C-333C43?logo=c&logoColor=#A8B9CC&style=flat"/>&nbsp;&nbsp;&nbsp; -->
-    <img src="https://img.shields.io/badge/-C++-333C43?logo=c%2B%2B&logoColor=blue&style=flat"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Python-333C43?logo=python&logoColor=#3776AB&style=flat"/>&nbsp;&nbsp;&nbsp;
-    <!-- <img src="https://img.shields.io/badge/-Ruby-333C43?logo=ruby&logoColor=darkred&style=flat"/>&nbsp;&nbsp;&nbsp; -->
-    <img src="https://img.shields.io/badge/-CSS%203-333C43?logo=css3&logoColor=2977CA&style=flat"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-HTML%205-333C43?logo=html5&logoColor=#E34F26&style=flat"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Javascript-333C43?logo=javascript&logoColor=#F7DF1E&style=flat"/>&nbsp;&nbsp;&nbsp;
-    <!-- <img src="https://img.shields.io/badge/-Node.Js-333C43?logo=node.js&logoColor=#339933&style=flat"/>&nbsp;&nbsp;&nbsp;-->
-    <img src="https://img.shields.io/badge/-Markdown-333C43?logo=markdown&logoColor=#000000&style=flat"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Git-333C43?logo=git&logoColor=#F05032&style=flat"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Github-333C43?logo=github&logoColor=#181717&style=flat"/>&nbsp;&nbsp;&nbsp;
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=100000000&color=7FFF00&vCenter=true&width=435&lines=%24+~%2Fskills)](https://git.io/typing-svg)
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,scss,bootstrap,tailwind,nodejs,figma,firebase,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,bash,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
 <hr>
-<h3>🇦‌🇵‌🇵‌🇸‌ 🇮‌ 🇺‌🇸‌🇪‌:</h3>
-<p>
-    <img src="https://img.shields.io/badge/-VS%20Code-333C43?logo=Visual%20Studio%20Code&logoColor=blue&style=flat" alt=""/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Sublime%20Text%203-333C43?logo=Sublime%20Text&logoColor=#FF9800&style=flat" alt=""/>&nbsp;&nbsp;&nbsp;
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=100000000&color=7FFF00&vCenter=true&width=435&lines=%24+~%2Fapps)](https://git.io/typing-svg)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
 <hr>
-<h3>🇨‌🇴‌🇳‌🇦‌🇹‌🇨‌🇹‌ 🇲‌🇪‌:</h3>
-<p>
-    <a href="mailto:iamjxxt@gmail.com?subject=Hello%20Jeet">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=100000000&color=7FFF00&vCenter=true&width=435&lines=%24+~%2Fcontact_me)](https://git.io/typing-svg)
+
+<a href="https://discordapp.com/users/311519489361707014">
         <img src="https://img.shields.io/badge/-Gmail-333C43?logo=gmail&logoColor=gmail&style=flat" alt=""/>&nbsp;&nbsp;&nbsp;
-    </a>
-</p>
+</a>
+
+<a href="mailto:iamjxxt@gmail.com?subject=Hello%20Jeet">
+        <img src="https://img.shields.io/badge/-Discord-333C43?logo=discord&logoColor=discord&style=flat" alt=""/>&nbsp;&nbsp;&nbsp;
+</a>
