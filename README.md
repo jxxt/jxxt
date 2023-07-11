@@ -10,7 +10,9 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,scss,bootstrap,tailwind,nodejs,figma,firebase,postman)](https://skillicons.dev)
+&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,bash,markdown)](https://skillicons.dev)
+&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 <hr>
