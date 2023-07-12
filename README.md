@@ -34,10 +34,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=100000000&color=7FFF00&vCenter=true&width=435&lines=%24+~%2Fcontact_me)](https://git.io/typing-svg)
 
-<a href="https://discordapp.com/users/311519489361707014">
+<a href="mailto:iamjxxt@gmail.com?subject=Hello%20Jeet">
         <img src="https://img.shields.io/badge/-Gmail-333C43?logo=gmail&logoColor=gmail&style=flat" alt=""/>&nbsp;&nbsp;&nbsp;
 </a>
 
-<a href="mailto:iamjxxt@gmail.com?subject=Hello%20Jeet">
+<a href="https://discordapp.com/users/311519489361707014">
         <img src="https://img.shields.io/badge/-Discord-333C43?logo=discord&logoColor=discord&style=flat" alt=""/>&nbsp;&nbsp;&nbsp;
 </a>
