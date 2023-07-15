@@ -26,11 +26,11 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=100000000&color=7FFF00&vCenter=true&width=435&lines=%24+~%2Fapps)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=100000000&color=7FFF00&vCenter=true&width=435&lines=%24+~%2Fapps)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) -->
 
-<hr>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=100000000&color=7FFF00&vCenter=true&width=435&lines=%24+~%2Fcontact_me)](https://git.io/typing-svg)
 
